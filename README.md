@@ -59,6 +59,7 @@ pip install flask transformers torch torchvision
 ```bash
 git clone https://github.com/Namith2002/FAS2.git
 cd FAS2
+pip install -r requirements.txt
 ```
 
 2. **Run the app:**
@@ -111,3 +112,4 @@ This project is for educational/demo purposes and is **MIT licensed**.
 ---
 
 Let me know if you'd like me to generate the `README.md` file for download or edit anything else.
+
